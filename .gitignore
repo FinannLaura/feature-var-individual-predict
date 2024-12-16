@@ -9,3 +9,5 @@ __pycache__/
 venv/
 env/
 
+# Ignore all TXT files
+*.txt
