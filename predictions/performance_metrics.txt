@@ -1,0 +1,690 @@
+Date: 2024-11-04 15:08:21
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2L): 0.0122
+
+Date: 2024-11-04 15:09:58
+Mean Accuracy (2LP): 0.6262
+Standard Deviation of Accuracy (2L): 0.0172
+
+Date: 2024-11-04 15:22:03
+Dataset: compas
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2L): 0.0122
+
+Date: 2024-11-04 15:57:06
+Dataset: compas, Number of Models: 5 Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2L): 0.0122
+
+Date: 2024-11-04 15:58:03
+Dataset: compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2L): 0.0122
+
+Date: 2024-11-04 15:59:03
+Dataset: compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 16:02:37
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 16:04:17
+Dataset: Compas
+Mean Log Loss (2LP): 0.6020
+Standard Deviation of Log Loss (2LP): 0.0102
+
+Date: 2024-11-04 16:08:26
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 16:10:03
+Dataset: Compas, Number of Models: 5
+Mean Log Loss (2LP): 0.6020
+Standard Deviation of Log Loss (2LP): 0.0102
+
+Date: 2024-11-04 16:13:10
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6656
+Standard Deviation of Accuracy (2LP): 0.0060
+
+Date: 2024-11-04 16:16:36
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (9rP): 0.6290
+Standard Deviation of Accuracy (9rP): 0.0089
+
+Date: 2024-11-04 16:17:58
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2lP): 0.6737
+Standard Deviation of Accuracy (2lP): 0.0122
+
+Date: 2024-11-04 16:20:33
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2lP): 0.6737
+Standard Deviation of Accuracy (2lP): 0.0122
+
+Date: 2024-11-04 16:21:31
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2lP): 0.6737
+Standard Deviation of Accuracy (2lP): 0.0122
+
+Date: 2024-11-04 16:22:55
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2lP): 0.6737
+Standard Deviation of Accuracy (2lP): 0.0122
+
+Date: 2024-11-04 16:23:47
+Dataset: Compas, Number of Models: 5
+Mean Log Loss (9rB): 0.7393
+Standard Deviation of Log Loss (9rB): 0.0315
+
+Date: 2024-11-04 16:26:09
+Dataset: Compas, Number of Models: 5
+Mean Log Loss (9rB): 0.7393
+Standard Deviation of Log Loss (9rB): 0.0315
+
+Date: 2024-11-04 16:29:39
+Dataset: compas, Number of Models: 5
+Mean Accuracy (9RB): 0.6290
+Standard Deviation of Accuracy (9RB): 0.0089
+
+Date: 2024-11-04 16:31:02
+Dataset: compas, Number of Models: 5
+Mean Accuracy (9RP): 0.6290
+Standard Deviation of Accuracy (9RP): 0.0089
+
+Date: 2024-11-04 16:32:29
+Dataset: compas, Number of Models: 5
+Mean Accuracy (9RP): 0.6290
+Standard Deviation of Accuracy (9RP): 0.0089
+
+Date: 2024-11-04 16:33:00
+Dataset: Compas, Number of Models: 5
+Mean Log Loss (2LP): 0.6071
+Standard Deviation of Log Loss (2LP): 0.0104
+
+Date: 2024-11-04 16:45:42
+Dataset: compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 16:47:44
+Dataset: COMPAS, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 16:48:56
+Dataset: Compas, Number of Models: 5
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 18:19:44
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.5000
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 18:46:40
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.5483
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 18:49:12
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.5483
+Mean Accuracy (2LB): 0.6737
+Standard Deviation of Accuracy (2LB): 0.0122
+
+Date: 2024-11-04 18:52:33
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.6042
+Mean Accuracy (2LB): 0.6466
+Standard Deviation of Accuracy (2LB): 0.0062
+
+Date: 2024-11-04 18:53:02
+Dataset: Compas, Number of Models: 5
+Date: 2024-11-04 18:53:57
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.5483
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 18:55:06
+Dataset: Compas, Number of Models: 5
+Mean Log Loss (2LP): 0.6071
+Standard Deviation of Log Loss (2LP): 0.0104
+
+Date: 2024-11-04 19:03:09
+Dataset: Compas, Number of Models: 5
+Mean Log Loss (9RB): 0.7393
+Standard Deviation of Log Loss (9RB): 0.0315
+
+Date: 2024-11-04 19:04:33
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.5483
+Mean Accuracy (2LP): 0.6737
+Standard Deviation of Accuracy (2LP): 0.0122
+
+Date: 2024-11-04 20:46:44
+Dataset: Compas, Number of Models: 5
+Mean Threshold: 0.5798
+Mean Accuracy (9RP): 0.6656
+Standard Deviation of Accuracy (9RP): 0.0061
+
+Date: 2024-11-04 20:49:49
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6188
+Mean Accuracy (2LP): 0.7370
+Standard Deviation of Accuracy (2LP): 0.0277
+
+Date: 2024-11-04 20:52:17
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6175
+Mean Accuracy (2LP): 0.7370
+Standard Deviation of Accuracy (2LP): 0.0277
+
+Date: 2024-11-04 20:53:14
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6235
+Mean Accuracy (2LP): 0.7490
+Standard Deviation of Accuracy (2LP): 0.0371
+
+Date: 2024-11-04 21:02:45
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7370
+Standard Deviation of Accuracy (9LP): 0.0277
+
+Date: 2024-11-04 21:05:34
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9P): 0.7520
+Standard Deviation of Accuracy (9P): 0.0308
+
+Date: 2024-11-04 21:06:14
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9RP): 0.7520
+Standard Deviation of Accuracy (9RP): 0.0308
+
+Date: 2024-11-04 22:06:44
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7370
+Standard Deviation of Accuracy (9LP): 0.0277
+
+Date: 2024-11-04 22:08:59
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7400
+Standard Deviation of Accuracy (9LP): 0.0226
+
+Date: 2024-11-04 22:10:10
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7400
+Standard Deviation of Accuracy (9LP): 0.0226
+
+Date: 2024-11-04 22:20:19
+Dataset: Credit, Number of Models: 5
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7400
+Standard Deviation of Accuracy (9LP): 0.0226
+
+Date: 2024-11-04 22:27:18
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7280
+Standard Deviation of Accuracy (9LP): 0.0289
+
+Date: 2024-11-04 22:29:43
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (9LP): 0.7280
+Standard Deviation of Accuracy (9LP): 0.0289
+
+Date: 2024-11-04 22:32:50
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (20LP): 0.7411
+Standard Deviation of Accuracy (20LP): 0.0275
+
+Date: 2024-11-04 22:35:42
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (20LP): 0.7411
+Standard Deviation of Accuracy (20LP): 0.0275
+
+Date: 2024-11-04 22:47:48
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (9RP): 0.7051
+Standard Deviation of Accuracy (9RP): 0.0287
+
+Date: 2024-11-04 22:59:47
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (20RP): 0.7346
+Standard Deviation of Accuracy (20RP): 0.0281
+
+Date: 2024-11-04 23:46:34
+Dataset: Unemployment, Number of Models: 10
+Threshold: 0.5000
+Mean Accuracy (9LP): 0.7340
+Standard Deviation of Accuracy (9LP): 0.0036
+
+Date: 2024-11-04 23:55:42
+Dataset: Unemployment, Number of Models: 10
+Threshold: 0.5000
+Mean Accuracy (88P): 0.7377
+Standard Deviation of Accuracy (88P): 0.0026
+
+Date: 2024-11-05 06:07:03
+Dataset: Unemployment, Number of Models: 1000
+Threshold: 0.5000
+Mean Accuracy (9RP): 0.6840
+Standard Deviation of Accuracy (9RP): 0.0033
+
+Date: 2024-11-05 15:10:50
+Dataset: Compas, Number of Models: 1000
+Mean Threshold: 0.5521
+Mean Accuracy (TEST2LP): 0.6675
+Standard Deviation of Accuracy (Test2LP): 0.0119
+
+Date: 2024-11-05 15:12:28
+Dataset: Compas, Number of Models: 1000
+Mean Threshold: 0.5521
+Mean Accuracy (2LP): 0.6675
+Standard Deviation of Accuracy (2LP): 0.0119
+
+Date: 2024-11-05 16:07:39
+Dataset: Compas, Number of Models: 1000
+Mean Threshold: 0.5834
+Mean Accuracy (7LP): 0.6572
+Standard Deviation of Accuracy (7LP): 0.0124
+
+Date: 2024-11-09 23:22:51
+Dataset: Credit, Number of Models: 1000
+Mean Log Loss (11LP): 0.5116
+Standard Deviation of Log Loss (11LP): 0.0352
+
+Date: 2024-11-09 23:35:16
+Dataset: Credit, Number of Models: 1000
+Mean Log Loss (11RP): 0.5398
+Standard Deviation of Log Loss (11RP): 0.0653
+
+Date: 2024-11-09 23:37:12
+Dataset: Credit, Number of Models: 1000
+Mean Log Loss (11LB): 0.5116
+Standard Deviation of Log Loss (11LB): 0.0352
+
+Date: 2024-11-09 23:50:01
+Dataset: Credit, Number of Models: 1000
+Mean Log Loss (11RB): 0.5398
+Standard Deviation of Log Loss (11RB): 0.0653
+
+Date: 2024-11-10 00:10:41
+Dataset: Compas, Number of Models: 2
+Mean Log Loss (2TLB): nan
+Standard Deviation of Log Loss (2TLB): nan
+
+Date: 2024-11-10 00:11:13
+Dataset: Compas, Number of Models: 2
+Mean Log Loss (2LB): nan
+Standard Deviation of Log Loss (2LB): nan
+
+Date: 2024-11-10 00:13:33
+Dataset: Compas, Number of Models: 2
+Mean Log Loss (2LB): nan
+Standard Deviation of Log Loss (2LB): nan
+
+Date: 2024-11-10 00:19:06
+Dataset: Compas, Number of Models: 2
+Mean Log Loss (2LB): nan
+Standard Deviation of Log Loss (2LB): nan
+
+Date: 2024-11-10 00:20:23
+Dataset: Compas, Number of Models: 2
+Mean Log Loss (2LB): nan
+Standard Deviation of Log Loss (2LB): nan
+
+Date: 2024-11-10 00:21:17
+Dataset: Compas, Number of Models: 2
+Mean Log Loss (2LB): nan
+Standard Deviation of Log Loss (2LB): nan
+
+Date: 2024-11-10 00:25:25
+Dataset: Compas, Number of Models: 2
+Log losses were not calculated as the output type is 'binary'.
+
+Date: 2024-11-10 00:27:19
+Dataset: Compas, Number of Models: 1000
+Log losses were not calculated as the output type is 'binary'.
+
+Date: 2024-11-10 00:38:39
+Dataset: Compas, Number of Models: 1000
+Log losses were not calculated as the output type is 'binary'.
+
+Date: 2024-11-10 00:44:44
+Dataset: Compas, Number of Models: 1000
+Log losses were not calculated as the output type is 'binary'.
+
+Date: 2024-11-10 00:56:21
+Dataset: Compas, Number of Models: 1000
+Log losses were not calculated as the output type is 'binary'.
+
+Date: 2024-11-10 01:05:09
+Dataset: Compas, Number of Models: 1000
+Log losses were not calculated as the output type is 'binary'.
+
+Date: 2024-11-10 23:27:04
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (9RP): 0.7051
+Standard Deviation of Accuracy (9RP): 0.0287
+
+Date: 2024-11-10 23:56:06
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (9LB): 0.7280
+Standard Deviation of Accuracy (9LB): 0.0289
+
+Date: 2024-11-10 23:58:04
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (20LB): 0.7411
+Standard Deviation of Accuracy (20LB): 0.0275
+
+Date: 2024-11-11 00:09:55
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (9RB): 0.7051
+Standard Deviation of Accuracy (9RB): 0.0287
+
+Date: 2024-11-11 00:22:25
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6198
+Mean Accuracy (20RB): 0.7346
+Standard Deviation of Accuracy (20RB): 0.0281
+
+Date: 2024-11-11 21:04:33
+Dataset: Unemployment, Number of Models: 1000
+Threshold: 0.5000
+Mean Accuracy (30RB): 0.7396
+Standard Deviation of Accuracy (30RB): 0.0031
+
+Date: 2024-11-12 04:24:49
+Dataset: Unemployment, Number of Models: 1000
+Threshold: 0.5000
+Mean Accuracy (22RP): 0.6944
+Standard Deviation of Accuracy (22RP): 0.0033
+
+Date: 2024-11-24 13:16:38
+Dataset: Compas, Number of Models: 1000
+Mean Confidence (7LP): 0.1268
+Standard Deviation of Confidence (7LP): 0.0941
+
+Date: 2024-11-24 13:25:38
+Dataset: Compas, Number of Models: 1000
+Mean Confidence (5LP): 0.1481
+Standard Deviation of Confidence (5LP): 0.1217
+
+Date: 2024-11-24 15:14:55
+Dataset: Compas, Number of Models: 1000
+Mean Confidence (9RP): 0.1830
+Standard Deviation of Confidence (9RP): 0.1247
+
+Date: 2024-11-24 16:03:17
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2628
+Standard Deviation of Confidence (11LP): 0.1423
+
+Date: 2024-11-24 16:17:26
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11RP): 0.2583
+Standard Deviation of Confidence (11RP): 0.1376
+
+Date: 2024-11-24 16:58:02
+Dataset: Unemployment, Number of Models: 1000
+Mean Confidence (8LP): 0.2306
+Standard Deviation of Confidence (8LP): 0.1007
+
+Date: 2024-11-24 17:05:48
+Dataset: Unemployment, Number of Models: 1000
+Mean Confidence (21LP): 0.2314
+Standard Deviation of Confidence (21LP): 0.0982
+
+Date: 2024-11-24 23:08:38
+Dataset: Unemployment, Number of Models: 1000
+Mean Confidence (8RP): 0.2825
+Standard Deviation of Confidence (8RP): 0.1308
+
+Date: 2024-11-24 23:28:45
+Dataset: Unemployment, Number of Models: 1000
+Mean Confidence (21RP): 0.2883
+Standard Deviation of Confidence (21RP): 0.1309
+
+Date: 2024-11-25 11:59:06
+Dataset: Compas, Number of Models: 1000
+Mean Confidence (7LP): 0.1268
+Standard Deviation of Confidence (7LP): 0.0941
+
+Date: 2024-11-25 12:47:23
+Dataset: Compas, Number of Models: 1000
+Mean Confidence (7RP): 0.2174
+Standard Deviation of Confidence (7RP): 0.1263
+
+Date: 2024-11-25 14:09:01
+Dataset: Compas, Number of Models: 10
+Mean Confidence (5RP): 0.1533
+Standard Deviation of Confidence (5RP): 0.1321
+
+Date: 2024-11-25 16:27:14
+Dataset: Compas, Number of Models: 1000
+Mean Confidence (5RP): 0.1526
+Standard Deviation of Confidence (5RP): 0.1231
+
+Date: 2024-11-28 06:51:35
+Dataset: Unemployment, Number of Models: 1000
+Threshold: 0.5000
+Mean Accuracy (22RP): 0.6944
+Standard Deviation of Accuracy (22RP): 0.0033
+
+Date: 2024-11-28 08:44:38
+Dataset: Unemployment, Number of Models: 1000
+Threshold: 0.5000
+Mean Accuracy (30RB): 0.7396
+Standard Deviation of Accuracy (30RB): 0.0031
+
+Date: 2024-11-28 10:43:18
+Dataset: Unemployment, Number of Models: 1000
+Threshold: 0.5000
+Mean Accuracy (22LB): 0.7307
+Standard Deviation of Accuracy (22LB): 0.0032
+
+Date: 2024-12-04 20:05:44
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2628
+Standard Deviation of Confidence (11LP): 0.1423
+
+Date: 2024-12-04 20:14:16
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2628
+Standard Deviation of Confidence (11LP): 0.1423
+
+Date: 2024-12-04 20:17:46
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2628
+Standard Deviation of Confidence (11LP): 0.1423
+
+Date: 2024-12-04 20:29:25
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2628
+Standard Deviation of Confidence (11LP): 0.1423
+
+Date: 2024-12-04 21:17:29
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2387
+Standard Deviation of Confidence (11LP): 0.1296
+
+Date: 2024-12-04 21:20:24
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11RP): 0.2387
+Standard Deviation of Confidence (11RP): 0.1296
+
+Date: 2024-12-04 21:48:07
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2387
+Standard Deviation of Confidence (11LP): 0.1296
+
+Date: 2024-12-04 21:51:29
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6331
+Mean Accuracy (9LP): 0.7173
+Standard Deviation of Accuracy (9LP): 0.0293
+
+Date: 2024-12-04 22:02:27
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6331
+Mean Accuracy (9RP): 0.6994
+Standard Deviation of Accuracy (9RP): 0.0279
+
+Date: 2024-12-04 22:08:17
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6331
+Mean Accuracy (9LB): 0.7173
+Standard Deviation of Accuracy (9LB): 0.0293
+
+Date: 2024-12-04 22:18:58
+Dataset: Credit, Number of Models: 1000
+Threshold: 0.6331
+Mean Accuracy (9RB): 0.6994
+Standard Deviation of Accuracy (9RB): 0.0279
+
+Date: 2024-12-04 22:38:44
+Dataset: Credit, Number of Models: 1000
+Mean Confidence (11LP): 0.2387
+Standard Deviation of Confidence (11LP): 0.1296
+
+Date: 2024-12-07 12:35:05
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5487
+Mean Accuracy (2LP): 0.6733
+Standard Deviation of Accuracy (2LP): 0.0109
+
+Date: 2024-12-07 12:35:47
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5487
+Mean Accuracy (2LP): 0.6733
+Standard Deviation of Accuracy (2LP): 0.0109
+
+Date: 2024-12-07 12:45:24
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5487
+Mean Accuracy (2LP): 0.6733
+Standard Deviation of Accuracy (2LP): 0.0109
+
+Date: 2024-12-07 12:48:56
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5848
+Mean Accuracy (7LP): 0.6668
+Standard Deviation of Accuracy (7LP): 0.0085
+
+Date: 2024-12-07 12:49:36
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5867
+Mean Accuracy (9LP): 0.6652
+Standard Deviation of Accuracy (9LP): 0.0093
+
+Date: 2024-12-07 12:50:59
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5979
+Mean Accuracy (2RP): 0.6441
+Standard Deviation of Accuracy (2RP): 0.0012
+
+Date: 2024-12-07 12:51:50
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.6946
+Mean Accuracy (7RP): 0.6340
+Standard Deviation of Accuracy (7RP): 0.0194
+
+Date: 2024-12-07 12:52:36
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.6782
+Mean Accuracy (9RP): 0.6300
+Standard Deviation of Accuracy (9RP): 0.0138
+
+Date: 2024-12-07 13:23:32
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5487
+Mean Accuracy (2LB): 0.6733
+Standard Deviation of Accuracy (2LB): 0.0109
+
+Date: 2024-12-07 13:24:25
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5848
+Mean Accuracy (7LB): 0.6668
+Standard Deviation of Accuracy (7LB): 0.0085
+
+Date: 2024-12-07 13:25:46
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5867
+Mean Accuracy (9LB): 0.6652
+Standard Deviation of Accuracy (9LB): 0.0093
+
+Date: 2024-12-07 13:26:31
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.5979
+Mean Accuracy (2RB): 0.6441
+Standard Deviation of Accuracy (2RB): 0.0012
+
+Date: 2024-12-07 13:27:15
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.6946
+Mean Accuracy (7LB): 0.6340
+Standard Deviation of Accuracy (7LB): 0.0194
+
+Date: 2024-12-07 13:27:59
+Dataset: Compas, Number of Models: 2
+Mean Threshold: 0.6782
+Mean Accuracy (9RB): 0.6300
+Standard Deviation of Accuracy (9RB): 0.0138
+
+Date: 2024-12-07 13:35:29
+Dataset: Compas, Number of Models: 2
+Mean Confidence (2LP): 0.1464
+Standard Deviation of Confidence (2LP): 0.1209
+
+Date: 2024-12-07 13:38:13
+Dataset: Compas, Number of Models: 2
+Mean Confidence (7LP): 0.1677
+Standard Deviation of Confidence (7LP): 0.1245
+
+Date: 2024-12-07 13:39:21
+Dataset: Compas, Number of Models: 2
+Mean Confidence (9LP): 0.1706
+Standard Deviation of Confidence (9LP): 0.1239
+
+Date: 2024-12-07 13:46:26
+Dataset: Compas, Number of Models: 2
+Mean Confidence (2RP): 0.2113
+Standard Deviation of Confidence (2RP): 0.1370
+
+Date: 2024-12-07 13:47:59
+Dataset: Compas, Number of Models: 2
+Mean Confidence (9RP): 0.2487
+Standard Deviation of Confidence (9RP): 0.1416
+
+Date: 2024-12-07 13:49:23
+Dataset: Compas, Number of Models: 2
+Mean Confidence (7RP): 0.2651
+Standard Deviation of Confidence (7RP): 0.1438
+
+Date: 2024-12-07 13:50:30
+Dataset: Compas, Number of Models: 2
+Mean Confidence (9LP): 0.1706
+Standard Deviation of Confidence (9LP): 0.1239
+
